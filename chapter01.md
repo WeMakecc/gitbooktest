@@ -2,7 +2,7 @@
 
 This is the test chapter01
 
-[](https://www.gitbook.com/download/pdf/book/alessandrocontini/gitbooktest)
+[ciao](https://www.gitbook.com/download/pdf/book/alessandrocontini/gitbooktest)
 
 
 This is a test line to see if github to gitbook integration works
